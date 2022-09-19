@@ -1,6 +1,6 @@
 name: 'AWS CLI'
 description: 'GitHub Action for AWS CLI'
-author: jsanz
+author: jsanz1209
 branding:
   icon: 'cloud'
   color: 'orange'
